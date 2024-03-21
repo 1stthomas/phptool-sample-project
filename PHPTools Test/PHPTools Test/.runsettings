@@ -1,0 +1,11 @@
+ <RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\TestResults</ResultsDirectory>
+    <SolutionDirectory>C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\</SolutionDirectory>
+    <MaxCpuCount>1</MaxCpuCount>
+    <EnvironmentVariables>
+      <VSTEST_BACKGROUND_DISCOVERY>1</VSTEST_BACKGROUND_DISCOVERY>
+    </EnvironmentVariables>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+</RunSettings>
