@@ -1,0 +1,212 @@
+[21.03.2024 7:04:52.497 PM]  Log level is set to Diagnostic.
+[21.03.2024 7:04:52.551 PM]  
+
+[21.03.2024 7:04:52.553 PM]  Source code repository not available. Some features may not work as expected.
+[21.03.2024 7:04:52.603 PM]  InternalLoadProjects Starting... [0]
+[21.03.2024 7:04:52.612 PM]  InternalLoadProjects Enumeration Complete in 8 ms [0]
+[21.03.2024 7:04:52.653 PM]  Current list of test runtime environments: < Local Windows Environment >
+[21.03.2024 7:04:52.774 PM]  Enqueue operation 'OpenOperation', hashcode:58691893 
+[21.03.2024 7:04:52.776 PM]  Operation left in the the queue: 1
+[21.03.2024 7:04:52.776 PM]  	'OpenOperation', hashcode:58691893
+[21.03.2024 7:04:52.776 PM]  
+
+[21.03.2024 7:04:52.778 PM]  Operation Dequeue : 'OpenOperation'
+[21.03.2024 7:04:52.875 PM]  Loading Project d2d8dad6-0114-4957-8513-d7db9f527c3e [1] => 
+===
+Id: d2d8dad6-0114-4957-8513-d7db9f527c3e
+ProjectFilePath: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\PHPTools Test.phpproj
+DefaultOutputPath: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\bin\Debug\PHPTools Test.dll
+DefaultTargetFramework: php80
+ProjectName: PHPTools Test
+DefaultCapabilities: CPS
+IsAppContainer: False
+IsCpsProject: True
+IsMiscellaneous: False
+HasTestContainerCapability: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\bin\Debug\PHPTools Test.dll: False
+HasTestingPlatformServerCapability: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\bin\Debug\PHPTools Test.dll: False
+IsCSharpOrVBProject: False
+
+[21.03.2024 7:04:52.876 PM]  InternalLoadProjects ProjectData Complete in 263 ms [1]
+[21.03.2024 7:04:52.876 PM]  Loaded all projects in 322 ms [1]
+[21.03.2024 7:04:52.878 PM]  
+===
+Id: d2d8dad6-0114-4957-8513-d7db9f527c3e
+ProjectFilePath: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\PHPTools Test.phpproj
+DefaultOutputPath: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\bin\Debug\PHPTools Test.dll
+DefaultTargetFramework: php80
+ProjectName: PHPTools Test
+DefaultCapabilities: CPS
+IsAppContainer: False
+IsCpsProject: True
+IsMiscellaneous: False
+HasTestContainerCapability: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\bin\Debug\PHPTools Test.dll: False
+HasTestingPlatformServerCapability: C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\bin\Debug\PHPTools Test.dll: False
+IsCSharpOrVBProject: False
+
+[21.03.2024 7:04:53.596 PM]  Connected to test environment '< Local Windows Environment >'
+[21.03.2024 7:04:53.725 PM]  Current list of test runtime environments: < Local Windows Environment >
+[21.03.2024 7:04:53.746 PM]  Test data store opened in 0.012 sec.
+[21.03.2024 7:04:53.820 PM]  Verifying Solution load status...
+[21.03.2024 7:04:53.824 PM]  Start updating all containers.
+[21.03.2024 7:04:53.824 PM]  Updating containers from Microsoft.VisualStudio.TestWindow.Client.TestContainer.ProjectOutputContainerDiscoverer.
+[21.03.2024 7:04:53.834 PM]  Initializing real time test discovery
+[21.03.2024 7:04:53.834 PM]  test container discoverer executor://projectoutputcontainerdiscoverer/v1, discovered 0 containers
+[21.03.2024 7:04:53.835 PM]  No containers found from 'Microsoft.VisualStudio.TestWindow.Client.TestContainer.ProjectOutputContainerDiscoverer' :
+[21.03.2024 7:04:53.839 PM]  Updating containers from Microsoft.VisualStudio.JavaScript.TestAdapter.TestContainerDiscoverer.
+[21.03.2024 7:04:54.055 PM]  test container discoverer executor://nodejstestexecutor/v2, discovered 0 containers
+[21.03.2024 7:04:54.056 PM]  No containers found from 'Microsoft.VisualStudio.JavaScript.TestAdapter.TestContainerDiscoverer' :
+[21.03.2024 7:04:54.056 PM]  Updating containers from Microsoft.VisualStudio.MSTest.TestWindow.OrderedTestContainerDiscoverer.
+[21.03.2024 7:04:54.086 PM]  test container discoverer executor://orderedtestadapter/v1, discovered 0 containers
+[21.03.2024 7:04:54.086 PM]  No containers found from 'Microsoft.VisualStudio.MSTest.TestWindow.OrderedTestContainerDiscoverer' :
+[21.03.2024 7:04:54.086 PM]  Updating containers from Microsoft.VisualStudio.MSTest.TestWindow.GenericTestContainerDiscoverer.
+[21.03.2024 7:04:54.088 PM]  test container discoverer executor://generictestadapter/v1, discovered 0 containers
+[21.03.2024 7:04:54.088 PM]  No containers found from 'Microsoft.VisualStudio.MSTest.TestWindow.GenericTestContainerDiscoverer' :
+[21.03.2024 7:04:54.088 PM]  Updating containers from Microsoft.VisualStudio.MSTest.TestWindow.WebTestContainerDiscoverer.
+[21.03.2024 7:04:54.089 PM]  test container discoverer executor://webtestadapter/v1, discovered 0 containers
+[21.03.2024 7:04:54.089 PM]  No containers found from 'Microsoft.VisualStudio.MSTest.TestWindow.WebTestContainerDiscoverer' :
+[21.03.2024 7:04:54.089 PM]  Updating containers from PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer.
+[21.03.2024 7:04:54.097 PM]  test container discoverer executor://php-tools/, discovered 1 containers
+[21.03.2024 7:04:54.097 PM]  Containers from 'PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer' :
+[21.03.2024 7:04:54.097 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:04:54.101 PM]  Completed updating containers.
+[21.03.2024 7:04:54.101 PM]  Syncing containers with the test store.
+[21.03.2024 7:04:54.115 PM]  Removing container sources 'C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test`1.phpunit' from the test store.
+[21.03.2024 7:04:54.115 PM]  Removing containers C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test`1.phpunit.
+[21.03.2024 7:04:54.125 PM]  Triggering auto-discovery
+[21.03.2024 7:04:54.125 PM]  Enqueue operation 'DiscoverAllOperation', hashcode:52474919 
+[21.03.2024 7:04:54.125 PM]  Operation left in the the queue: 1
+[21.03.2024 7:04:54.125 PM]  	'DiscoverAllOperation', hashcode:52474919
+[21.03.2024 7:04:54.125 PM]  
+
+[21.03.2024 7:04:54.126 PM]  Operation Dequeue : 'DiscoverAllOperation'
+[21.03.2024 7:04:54.131 PM]  Start updating 1 containers.
+[21.03.2024 7:04:54.136 PM]  Updating containers from PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer.
+[21.03.2024 7:04:54.137 PM]  test container discoverer executor://php-tools/, discovered 1 containers
+[21.03.2024 7:04:54.137 PM]  Containers from 'PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer' :
+[21.03.2024 7:04:54.137 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:04:54.140 PM]  Completed updating containers.
+[21.03.2024 7:04:54.140 PM]  DiscoveryOperation<DiscoverAllOperation> Changed container count is 1
+[21.03.2024 7:04:54.183 PM]  Discovering the following containers :
+[21.03.2024 7:04:54.183 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:04:54.194 PM]  UnitTestExtensionDiscoverer: Found the following Unit Test VSIX extensions: C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\MICROSOFT\JAVASCRIPT\Microsoft.VisualStudio.JavaScript.TestAdapter.dll
+	C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\HPVIPX3H.BU0\Devsense.VisualStudio.TestAdapter.Executor.dll
+[21.03.2024 7:04:54.308 PM]  Failed to identify the set of NuGet packages referenced in project 'PHPTools Test' since the project has not completed loading.
+[21.03.2024 7:04:54.319 PM]  Initializing test platform with extensions: C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\HPVIPX3H.BU0\Devsense.VisualStudio.TestAdapter.Executor.dll
+	C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\MICROSOFT\JAVASCRIPT\Microsoft.VisualStudio.JavaScript.TestAdapter.dll
+[21.03.2024 7:04:54.339 PM]  ========== Starting test discovery ==========
+[21.03.2024 7:04:54.341 PM]  File timestamp for C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit is not recorded.
+[21.03.2024 7:04:54.349 PM]  Grouped C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit : (VsTestConsoleRunner, , , False)
+[21.03.2024 7:04:54.351 PM]  Test discovery settings for C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit:
+ <RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\TestResults</ResultsDirectory>
+    <SolutionDirectory>C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\</SolutionDirectory>
+    <MaxCpuCount>0</MaxCpuCount>
+    <EnvironmentVariables>
+      <VSTEST_BACKGROUND_DISCOVERY>1</VSTEST_BACKGROUND_DISCOVERY>
+    </EnvironmentVariables>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+</RunSettings>.
+[21.03.2024 7:04:54.352 PM]  Test platform diagnostic logs disabled.
+[21.03.2024 7:04:55.776 PM]  Received ContainersUpdated event from PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer
+[21.03.2024 7:04:55.778 PM]  test container discoverer executor://php-tools/, discovered 1 containers
+[21.03.2024 7:04:55.778 PM]  Containers from 'PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer' :
+[21.03.2024 7:04:55.778 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:04:55.779 PM]  Enqueue operation 'DiscoverSelectedOperation', hashcode:1203257 
+[21.03.2024 7:04:55.779 PM]  Operation left in the the queue: 1
+[21.03.2024 7:04:55.779 PM]  	'DiscoverSelectedOperation', hashcode:1203257
+[21.03.2024 7:04:55.779 PM]  
+
+[21.03.2024 7:04:56.356 PM]  Interrupt: Enqueueing RunAllOperation
+[21.03.2024 7:04:56.356 PM]  Enqueue operation 'RunAllOperation', hashcode:35945528 
+[21.03.2024 7:04:56.356 PM]  Operation left in the the queue: 2
+[21.03.2024 7:04:56.356 PM]  	'RunAllOperation', hashcode:35945528
+[21.03.2024 7:04:56.356 PM]  	'DiscoverSelectedOperation', hashcode:1203257
+[21.03.2024 7:04:56.357 PM]  
+
+[21.03.2024 7:04:56.357 PM]  Interrupt: Cancelling DiscoverAllOperation
+[21.03.2024 7:04:56.357 PM]  Aborting test discovery because a test run was requested.
+[21.03.2024 7:04:56.357 PM]  Interrupt: Enqueueing DiscoverAllOperation
+[21.03.2024 7:04:56.357 PM]  Enqueue operation 'DiscoverAllOperation', hashcode:19784333 
+[21.03.2024 7:04:56.357 PM]  Operation left in the the queue: 3
+[21.03.2024 7:04:56.357 PM]  	'RunAllOperation', hashcode:35945528
+[21.03.2024 7:04:56.357 PM]  	'DiscoverSelectedOperation', hashcode:1203257
+[21.03.2024 7:04:56.357 PM]  	'DiscoverAllOperation', hashcode:19784333
+[21.03.2024 7:04:56.357 PM]  
+
+[21.03.2024 7:04:56.443 PM]  ========== Test discovery aborted: 0 Tests found in 2.1 sec ==========
+[21.03.2024 7:04:56.457 PM]  Operation Dequeue : 'RunAllOperation'
+[21.03.2024 7:04:56.457 PM]  Operation left in the the queue: 2
+[21.03.2024 7:04:56.457 PM]  	'DiscoverSelectedOperation', hashcode:1203257
+[21.03.2024 7:04:56.457 PM]  	'DiscoverAllOperation', hashcode:19784333
+[21.03.2024 7:04:56.457 PM]  
+
+[21.03.2024 7:04:58.638 PM]  Start building all containers.
+[21.03.2024 7:04:58.639 PM]  Triggering full solution build.
+[21.03.2024 7:04:59.680 PM]  Completed building containers.
+[21.03.2024 7:04:59.680 PM]  Start updating all containers.
+[21.03.2024 7:04:59.680 PM]  Updating containers from Microsoft.VisualStudio.TestWindow.Client.TestContainer.ProjectOutputContainerDiscoverer.
+[21.03.2024 7:04:59.683 PM]  test container discoverer executor://projectoutputcontainerdiscoverer/v1, discovered 0 containers
+[21.03.2024 7:04:59.683 PM]  No containers found from 'Microsoft.VisualStudio.TestWindow.Client.TestContainer.ProjectOutputContainerDiscoverer' :
+[21.03.2024 7:04:59.683 PM]  Updating containers from Microsoft.VisualStudio.JavaScript.TestAdapter.TestContainerDiscoverer.
+[21.03.2024 7:04:59.685 PM]  test container discoverer executor://nodejstestexecutor/v2, discovered 0 containers
+[21.03.2024 7:04:59.685 PM]  No containers found from 'Microsoft.VisualStudio.JavaScript.TestAdapter.TestContainerDiscoverer' :
+[21.03.2024 7:04:59.685 PM]  Updating containers from Microsoft.VisualStudio.MSTest.TestWindow.OrderedTestContainerDiscoverer.
+[21.03.2024 7:04:59.687 PM]  test container discoverer executor://orderedtestadapter/v1, discovered 0 containers
+[21.03.2024 7:04:59.687 PM]  No containers found from 'Microsoft.VisualStudio.MSTest.TestWindow.OrderedTestContainerDiscoverer' :
+[21.03.2024 7:04:59.688 PM]  Updating containers from Microsoft.VisualStudio.MSTest.TestWindow.GenericTestContainerDiscoverer.
+[21.03.2024 7:04:59.689 PM]  test container discoverer executor://generictestadapter/v1, discovered 0 containers
+[21.03.2024 7:04:59.689 PM]  No containers found from 'Microsoft.VisualStudio.MSTest.TestWindow.GenericTestContainerDiscoverer' :
+[21.03.2024 7:04:59.689 PM]  Updating containers from Microsoft.VisualStudio.MSTest.TestWindow.WebTestContainerDiscoverer.
+[21.03.2024 7:04:59.690 PM]  test container discoverer executor://webtestadapter/v1, discovered 0 containers
+[21.03.2024 7:04:59.690 PM]  No containers found from 'Microsoft.VisualStudio.MSTest.TestWindow.WebTestContainerDiscoverer' :
+[21.03.2024 7:04:59.690 PM]  Updating containers from PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer.
+[21.03.2024 7:04:59.691 PM]  test container discoverer executor://php-tools/, discovered 1 containers
+[21.03.2024 7:04:59.691 PM]  Containers from 'PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer' :
+[21.03.2024 7:04:59.691 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:04:59.692 PM]  Completed updating containers.
+[21.03.2024 7:04:59.692 PM]  DiscoveryOperation<RunAllOperation> Changed container count is 1
+[21.03.2024 7:04:59.703 PM]  Test run animation has started.
+[21.03.2024 7:04:59.707 PM]  Test run progress has started.
+[21.03.2024 7:04:59.710 PM]  Discovering the following containers :
+[21.03.2024 7:04:59.710 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:04:59.712 PM]  Failed to identify the set of NuGet packages referenced in project 'PHPTools Test' since the project has not completed loading.
+[21.03.2024 7:04:59.713 PM]  Starting test discovery for requested test run
+[21.03.2024 7:04:59.716 PM]  ========== Starting test discovery ==========
+[21.03.2024 7:04:59.718 PM]  File timestamp for C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit is not recorded.
+[21.03.2024 7:04:59.719 PM]  Grouped C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit : (VsTestConsoleRunner, , , False)
+[21.03.2024 7:04:59.721 PM]  Test discovery settings for C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit:
+ <RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\TestResults</ResultsDirectory>
+    <SolutionDirectory>C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\</SolutionDirectory>
+    <MaxCpuCount>0</MaxCpuCount>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+</RunSettings>.
+[21.03.2024 7:05:00.272 PM] [Warning] No test is available in C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[21.03.2024 7:05:00.317 PM]  ========== Test discovery finished: 0 Tests found in 600.3 ms ==========
+[21.03.2024 7:05:00.358 PM]  No tests found to run.
+[21.03.2024 7:05:00.359 PM]  Test run animation has stopped.
+[21.03.2024 7:05:00.359 PM]  Test run progress has stopped.
+[21.03.2024 7:05:00.362 PM]  Operation Dequeue : 'DiscoverSelectedOperation'
+[21.03.2024 7:05:00.363 PM]  Operation left in the the queue: 1
+[21.03.2024 7:05:00.363 PM]  	'DiscoverAllOperation', hashcode:19784333
+[21.03.2024 7:05:00.363 PM]  
+
+[21.03.2024 7:05:00.364 PM]  Start updating 1 containers.
+[21.03.2024 7:05:00.364 PM]  Updating containers from PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer.
+[21.03.2024 7:05:00.365 PM]  test container discoverer executor://php-tools/, discovered 1 containers
+[21.03.2024 7:05:00.365 PM]  Containers from 'PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer' :
+[21.03.2024 7:05:00.365 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:05:00.366 PM]  Completed updating containers.
+[21.03.2024 7:05:00.366 PM]  DiscoveryOperation<DiscoverSelectedOperation> Changed container count is 0
+[21.03.2024 7:05:00.374 PM]  Operation Dequeue : 'DiscoverAllOperation'
+[21.03.2024 7:05:00.375 PM]  Start updating 1 containers.
+[21.03.2024 7:05:00.375 PM]  Updating containers from PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer.
+[21.03.2024 7:05:00.376 PM]  test container discoverer executor://php-tools/, discovered 1 containers
+[21.03.2024 7:05:00.376 PM]  Containers from 'PHP.VisualStudio.TestAdapter.TestExplorer.PhpUnitContainerDiscoverer' :
+[21.03.2024 7:05:00.376 PM]  	C:\development\test_projects\phptools_test\PHPTools Test\PHPTools Test\.vs\TestAdapter\PHPTools Test.phpunit
+[21.03.2024 7:05:00.376 PM]  Completed updating containers.
+[21.03.2024 7:05:00.377 PM]  DiscoveryOperation<DiscoverAllOperation> Changed container count is 0
